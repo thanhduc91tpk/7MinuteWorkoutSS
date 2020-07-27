@@ -15,7 +15,7 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/backgroundplash" />
+        app:srcCompat="@drawable/bgr" />
 
     <View
         android:id="@+id/linecustomView"
